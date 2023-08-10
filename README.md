@@ -23,7 +23,7 @@ Create a GitHub account and create a new repo.
 
   Download KGB:
   ```bash
-  cd ~ && git clone https://github.com/Low-Frequency/Klipper-Git-Backup.git
+  cd ~ && git clone https://github.com/Vincent-LvZY/Klipper-Git-Backup.git
   ```
 
 * **Step 3:**
